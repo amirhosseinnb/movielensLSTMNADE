@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual env
+.venv/
+.env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives / raw data
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.rar
+
+# Project data & artifacts
+recsys/data/
+recsys/data_raw/
+recsys/results/
+recsys/models/
+.recsys_cache/
+
+# Reports (اختیاری)
+*.docx
+*.pdf
