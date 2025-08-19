@@ -1,0 +1,12 @@
+# Core
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
+
+# Deep Learning
+torch
+
+# Report (برای خروجی فصل۴ اگر لازم شد)
+python-docx
